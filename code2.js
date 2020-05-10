@@ -65,7 +65,7 @@ gdjs.Level2Code.condition2IsTrue_1 = {val:false};
 gdjs.Level2Code.condition3IsTrue_1 = {val:false};
 
 
-gdjs.Level2Code.eventsList0x5edf544 = function(runtimeScene) {
+gdjs.Level2Code.eventsList0xc46088c = function(runtimeScene) {
 
 {
 
@@ -183,7 +183,7 @@ gdjs.Level2Code.condition1IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Level2Code.conditionTrue_1 = gdjs.Level2Code.condition2IsTrue_0;
-gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(99585612);
+gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(206104300);
 }
 }}
 }
@@ -220,7 +220,7 @@ gdjs.Level2Code.condition1IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Level2Code.conditionTrue_1 = gdjs.Level2Code.condition2IsTrue_0;
-gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(99745820);
+gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(206105244);
 }
 }}
 }
@@ -289,7 +289,7 @@ gdjs.Level2Code.GDPlayerHitBoxObjects2.length = k;}if ( gdjs.Level2Code.conditio
 if ( gdjs.Level2Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Level2Code.conditionTrue_1 = gdjs.Level2Code.condition2IsTrue_0;
-gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(99747236);
+gdjs.Level2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(205985516);
 }
 }}
 }
@@ -382,7 +382,7 @@ if (gdjs.Level2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Level2Code.eventsList0x5edf544
+}; //End of gdjs.Level2Code.eventsList0xc46088c
 gdjs.Level2Code.mapOfGDgdjs_46Level2Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level2Code.GDPlayerObjects1});gdjs.Level2Code.mapOfGDgdjs_46Level2Code_46GDDoorObjects1Objects = Hashtable.newFrom({"Door": gdjs.Level2Code.GDDoorObjects1});gdjs.Level2Code.eventsList0x5b69a8 = function(runtimeScene) {
 
 {
@@ -444,7 +444,7 @@ for(var i = 0, k = 0, l = gdjs.Level2Code.GDPlayerHitBoxObjects1.length;i<l;++i)
 gdjs.Level2Code.GDPlayerHitBoxObjects1.length = k;}if (gdjs.Level2Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Level2Code.eventsList0x5edf544(runtimeScene);} //End of subevents
+gdjs.Level2Code.eventsList0xc46088c(runtimeScene);} //End of subevents
 }
 
 }
